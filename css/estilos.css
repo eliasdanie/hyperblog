@@ -33,3 +33,10 @@ body {
     font-weight: normal;
     font-size: 0.6em;
 }
+
+#footer{
+    background: gray;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
